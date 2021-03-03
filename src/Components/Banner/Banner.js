@@ -1,6 +1,5 @@
 import React from 'react'
 import './banner.scss'
-import bg from '../../image/4.jpg'
 
 const Banner = () => {
     return (

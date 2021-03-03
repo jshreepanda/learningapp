@@ -11,7 +11,7 @@ const AboutUs = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elitdolor sit amet consectetur adipisicing elit. Redolor sit amet dolor sit amet consectetur adipisicing elit consectetur adipisicing elit rum minima iure ad numquam asperiores voluptatem esse.</p>
             </div>
             <div className="image">
-                <img src={image1} alt="aboutus image" />
+                <img src={image1} alt="aboutus" />
             </div>
         </div>
     )
