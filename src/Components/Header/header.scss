@@ -1,0 +1,22 @@
+.header {
+    color: #fff;
+    background-color: #259c96e8;
+    position: fixed;
+    width: 100%;
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .logo {
+        text-decoration: none;
+        font-size: 40px;
+        display: inline-block;
+        color: #fff;
+    }
+
+    // .sandwich-menu {
+    //     font-size: 50px;
+    //     color: brown;
+    // }
+}
